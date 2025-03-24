@@ -16,7 +16,6 @@ import {
   FaDigitalOcean,
   FaFigma,
   FaFly,
-  FaFrog,
   FaGithub,
   FaNpm,
 } from "react-icons/fa6";

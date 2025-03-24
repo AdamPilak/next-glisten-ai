@@ -6,7 +6,6 @@ import {
   SliceComponentProps,
 } from "@prismicio/react";
 import { createClient } from "@/prismicio";
-import { CaseStudiesSlice } from "../../../prismicio-types";
 import { PrismicNextImage, PrismicNextLink } from "@prismicio/next";
 import clsx from "clsx";
 import Bounded from "@/components/Bounded";
